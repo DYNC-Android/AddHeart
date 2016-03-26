@@ -10,14 +10,14 @@ Imported the File into Your Project~
 
 then 
   XML:
-  
+  ```
    <com.dync.addheart.Heart
         android:id ="@+id/heart"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
     </com.dync.addheart.Heart>
     
-    
+  ```  
   Activity:
   
     Heart heart= (Heart) findViewById(R.id.heart);
