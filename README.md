@@ -4,6 +4,12 @@
 
 How to use?
 
+
+
+![image](https://github.com/DYNC-Android/AddHeart/blob/master/screenshots/a.png)
+![image](https://github.com/DYNC-Android/AddHeart/blob/master/screenshots/b.png)
+![image](https://github.com/DYNC-Android/AddHeart/blob/master/screenshots/c.png)
+![image](https://github.com/DYNC-Android/AddHeart/blob/master/screenshots/d.png)
 So easy~
 
 Imported the File into Your Project~
